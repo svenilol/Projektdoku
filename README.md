@@ -29,7 +29,6 @@ In meinem Projekt möchte ich ein Programm erstellen, das eine Zufällige Nummer
 | ...  |              |         |                   |
 
 
-
 ### 1.4 Diagramme
 
 ![image](https://user-images.githubusercontent.com/110892330/186124655-72b14584-cd83-4099-b379-5877b10dd7f1.png)
@@ -38,7 +37,7 @@ In meinem Projekt möchte ich ein Programm erstellen, das eine Zufällige Nummer
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 2022.08.23 11:30 Uhr | Bächli | Planung des Projektes | 2 Stunden |
+| 1.A  | 2022.08.23 11:30 Uhr | Sven Bächli | Planung des Projektes | 2 Stunden |
 | ...  |       |           |              |               |
 
 Total: 2 Stunden
@@ -52,8 +51,8 @@ Das Projekt ist definitiv machbar und ist ein guter Zeitfertreib mit Kollegen.
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |       | Sven Bächli |               |                   |
+| ...  |       | Sven Bächli |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
