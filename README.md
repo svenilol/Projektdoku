@@ -4,9 +4,9 @@ Sven Bächli
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 23.08.2022	      | 0.0.1   |Heute habe ich mein Projekt so gut wie möglich geplant.|
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 23.08.2022 | 0.0.1 |Heute habe ich mein Projekt so gut wie möglich geplant.|
+| 30.08.2022 | 0.1.0 |Ich habe an dem Projekt gearbeitet.|
+| 06.09.2022 | 1.0.0 |Ich habe das Projekt zum ersten mal fertiggestellt und getestet.|
 
 ## 1 Informieren
 
@@ -19,13 +19,13 @@ In meinem Projekt möchte ich ein Programm erstellen, das eine Zufällige Nummer
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    | Muss            | Funktionale Anforderung     | Als ein Spieler, möchte ich gewinnen, indem ich eine Zahl zwischen 1 und 200 eingebe |
-| 2    | Kann            | Qualitäts Anforderung     | Als Spieler möchte ich ein wenig dekoration sehen, damit ich besser geniessen kann  |
+| 2    | Kann            | Qualitäts Anforderung     | Als Spieler möchte ich ein schönes Layout sehen, damit ich besser es geniessen kann  |
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Programm wird gestartet | Zahl zwischen 1 und 200 | Ob die Zahl richtig, grösser oder kleiner ist. |
+| 1.1  | Programm wird gestartet | Zahl zwischen 1 und 100 | Ob die Zahl richtig, grösser oder kleiner ist. |
 | ...  |              |         |                   |
 
 
