@@ -72,10 +72,10 @@ Das Projekt ist definitiv machbar und ist ein guter Zeitfertreib mit Kollegen.
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
+| I    | Das Programm fragt nach einer Zahl. | Buchstaben | Error Meldung | Absturz des Programms |
 | ...  |              |         |                   |                      |
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
+
 
 ## 6 Auswerten
 
